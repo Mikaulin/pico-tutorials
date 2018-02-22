@@ -106,7 +106,7 @@ lives=3
   
   --gameover
   if(lives<1) then
-	  print('game over',75,75,15)
+	  print('game over!',64,50,15)
   end
   
   --draw the paddle
